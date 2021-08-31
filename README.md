@@ -2,12 +2,12 @@
 
 # Usage Installation
 ## CentOS 7/8
-wget -O centos-ss-install.sh https://github.com/M3chD09/shadowsocks-with-v2ray-plugin-install/raw/master/centos-ss-install.sh
+wget -O centos-ss-install.sh https://raw.githubusercontent.com/Gugun09/ss-libev-with-v2ray-plugin/main/centos-ss-install.sh
 chmod +x centos-ss-install.sh
 ./centos-ss-install.sh
 
 ## Ubuntu 18.04/16.04 or Debian 9/10
-wget -O ss-install.sh https://raw.githubusercontent.com/Gugun09/ss-libev-with-v2ray-plugin/main/ss-v2ray-install.sh
+wget -O ss-install.sh https://raw.githubusercontent.com/Gugun09/ss-libev-with-v2ray-plugin/main/debian-ss-v2ray-install.sh
 chmod +x ss-install.sh
 ./ss-install.sh
 
