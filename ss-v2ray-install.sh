@@ -1,4 +1,5 @@
 #!/bin/sh
+#build by Gugun09
 
 # Check system
 if [ ! -f /etc/lsb-release ];then
